@@ -19,12 +19,10 @@ Andrea Volkamer
 |           | [Machine learning][4] | 
 
 
-<!-- TODO: Update colab links -->
-
-[1]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_1/Session_1.ipynb
-[2]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_2/AI_in_chemistry_workshop_session_2.ipynb
-[3]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_3/SMILES_RNN.ipynb
-[4]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_3/active_regression.ipynb
+[1]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/1_RDKit_basics-and-Compound-Prep-AV.ipynb
+[2]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/2_Chemoinformatics-Intro-and-Fingerprint-Example-AV.ipynb
+[3]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/3_Pandas-Cheminformatics-AV.ipynb
+[4]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main//intro_notebooks/4_Machine_Learning-AV.ipynb
 
 ## How to start using this material
 
