@@ -32,4 +32,6 @@ Andrea Volkamer
 
 
 ## Resources
-[This document](https://github.com/volkamerlab/ai_in_chemistry_workshop/blob/main/resources.md) contains a list of useful resources for learning more about AI in drug discovery.
+* [This document](https://github.com/volkamerlab/ai_in_chemistry_workshop/blob/main/resources.md) contains a list of useful resources for learning more about AI in drug discovery.
+* [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd/blob/master/README.md) contains intractive material for learning more about computational drug discovery in general.
+* [AI in medicine](https://github.com/volkamerlab/ai_in_medicine/blob/master/README.md) holds useful informations for python beginners.
