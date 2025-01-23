@@ -18,6 +18,7 @@ Andrea Volkamer
 |    23     | [Similarity search][3]             | 
 |           | [Machine learning][4] | 
 |    24    | [MLP on fingerprints][5] |
+|    24    | [GNN for molecules][6] |
 
 
 [1]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/1_RDKit_basics-and-Compound-Prep-AV.ipynb
@@ -25,6 +26,7 @@ Andrea Volkamer
 [3]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/3_Pandas-Cheminformatics-AV.ipynb
 [4]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main//intro_notebooks/4_Machine_Learning-AV.ipynb
 [5]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main//intro_notebooks/5_Fingerprint_MLP.ipynb
+[6]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main//intro_notebooks/6_GNN.ipynb
 
 ## How to start using this material
 
