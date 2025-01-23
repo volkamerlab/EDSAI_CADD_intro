@@ -17,12 +17,14 @@ Andrea Volkamer
 |           | [Molecules and fingerprints][2]    | 
 |    23     | [Similarity search][3]             | 
 |           | [Machine learning][4] | 
+|    24    | [MLP on fingerprints][5] |
 
 
 [1]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/1_RDKit_basics-and-Compound-Prep-AV.ipynb
 [2]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/2_Chemoinformatics-Intro-and-Fingerprint-Example-AV.ipynb
 [3]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main/intro_notebooks/3_Pandas-Cheminformatics-AV.ipynb
 [4]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main//intro_notebooks/4_Machine_Learning-AV.ipynb
+[5]: https://colab.research.google.com/github/volkamerlab/EDSAI_CADD_intro//blob/main//intro_notebooks/5_Fingerprint_MLP.ipynb
 
 ## How to start using this material
 
